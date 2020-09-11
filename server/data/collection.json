@@ -1,0 +1,20 @@
+[
+  {
+    "id":"C001",
+    "name":"All Products",
+    "url":"all-products",
+    "items":[{"id":"P0001"},{"id":"P0002"},{"id":"P0003"},{"id":"P0004"}]
+  },
+  {
+    "id":"C002",
+    "name":"Gaming Computers",
+    "url":"gaming-computers",
+    "items":[{"id":"P0001"}]
+  },
+  {
+    "id":"C003",
+    "name":"Digital Camera",
+    "url":"digital-camera",
+    "items":[]
+  }
+]

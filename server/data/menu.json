@@ -1,0 +1,45 @@
+[{
+    "id":"H001",
+    "name":"Main Menu",
+    "items":[
+      {
+        "id":"MC001",
+        "name":"Home",
+        "url":"/",
+        "items":[]
+      },
+      {
+        "id":"MC002",
+        "name":"All Products",
+        "url":"/collections/all-products",
+        "items":[]
+      },
+      {
+        "id":"MC003",
+        "name":"Electronics",
+        "url":"#",
+        "items":[{
+          "id":"MCS001",
+          "name":"Gaming Computers",
+          "url":"/collections/gaming-computers"
+          },
+          {
+            "id":"MCS002",
+            "name":"Digital Camera",
+            "url":"/collections/digital-camera"
+          }]
+      }]
+    },
+   {
+      "id":"H002",
+      "name":"Top Menu",
+      "items":[{
+      }]
+   },
+   {
+     "id":"H003",
+     "name":"logo",
+     "storelogo":"My Store",
+     "url":"/"
+    }
+]

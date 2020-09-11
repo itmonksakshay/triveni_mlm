@@ -1,0 +1,14 @@
+[
+  {
+    "id": "P0005",
+    "name": "Mi Laptop",
+    "price": "900",
+    "image_name": "image-1.jpg",
+    "url":"mi-laptop", 
+    "categories":[{
+      "id":"C001",
+      "name":"all products"
+    }],
+    "description":""
+  }
+]

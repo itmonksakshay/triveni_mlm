@@ -1,0 +1,15 @@
+[{
+  "slider":[{
+    "id":"SLID001",
+    "image_name":"slider-1.jpg",
+    "alt_tag":"image 1"
+  },{
+    "id":"SLID002",
+    "image_name":"slider-2.jpg",
+    "alt_tag":"image 2"
+  },{
+    "id":"SLID003",
+    "image_name":"slider-3.jpg",
+    "alt_tag":"image 3"
+  }]
+}]
